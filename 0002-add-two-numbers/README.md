@@ -33,3 +33,10 @@
 	<li><code>0 &lt;= Node.val &lt;= 9</code></li>
 	<li>It is guaranteed that the list represents a number that does not have leading zeros.</li>
 </ul>
+
+### **Complexity Analysis For This Solution**
+
+| Metric | Complexity | Description |
+| :--- | :--- | :--- |
+| **Time Complexity** | $O(\max(N, M))$ | We traverse both linked lists exactly once, where $N$ and $M$ are their respective lengths. |
+| **Space Complexity** | $O(\max(N, M))$ | A new linked list is created to store the result. The length is at most $\max(N, M) + 1$. |
