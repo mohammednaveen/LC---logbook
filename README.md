@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammednaveen/LC---logbook/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mohammednaveen/LC---logbook/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammednaveen/LC---logbook/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mohammednaveen/LC---logbook/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/mohammednaveen/LC---logbook/tree/master/0771-jewels-and-stones) |
 | [2325-decode-the-message](https://github.com/mohammednaveen/LC---logbook/tree/master/2325-decode-the-message) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mohammednaveen/LC---logbook/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohammednaveen/LC---logbook/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/mohammednaveen/LC---logbook/tree/master/0049-group-anagrams) |
 | [0771-jewels-and-stones](https://github.com/mohammednaveen/LC---logbook/tree/master/0771-jewels-and-stones) |
 | [2325-decode-the-message](https://github.com/mohammednaveen/LC---logbook/tree/master/2325-decode-the-message) |
 ## Stack
