@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohammednaveen/LC---logbook/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/mohammednaveen/LC---logbook/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/mohammednaveen/LC---logbook/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/mohammednaveen/LC---logbook/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/mohammednaveen/LC---logbook/tree/master/2942-find-words-containing-character) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohammednaveen/LC---logbook/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/mohammednaveen/LC---logbook/tree/master/0066-plus-one) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mohammednaveen/LC---logbook/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Recursion
 |  |
