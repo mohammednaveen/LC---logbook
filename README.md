@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mohammednaveen/LC---logbook/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/mohammednaveen/LC---logbook/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
+| [1914-cyclically-rotating-a-grid](https://github.com/mohammednaveen/LC---logbook/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/mohammednaveen/LC---logbook/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/mohammednaveen/LC---logbook/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/mohammednaveen/LC---logbook/tree/master/2974-minimum-number-game) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/mohammednaveen/LC---logbook/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/mohammednaveen/LC---logbook/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/mohammednaveen/LC---logbook/tree/master/2974-minimum-number-game) |
 ## Counting
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/mohammednaveen/LC---logbook/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/mohammednaveen/LC---logbook/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/mohammednaveen/LC---logbook/tree/master/1914-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->
