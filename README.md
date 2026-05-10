@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
 | [1914-cyclically-rotating-a-grid](https://github.com/mohammednaveen/LC---logbook/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/mohammednaveen/LC---logbook/tree/master/1929-concatenation-of-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mohammednaveen/LC---logbook/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2942-find-words-containing-character](https://github.com/mohammednaveen/LC---logbook/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/mohammednaveen/LC---logbook/tree/master/2974-minimum-number-game) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mohammednaveen/LC---logbook/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/mohammednaveen/LC---logbook/tree/master/1914-cyclically-rotating-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mohammednaveen/LC---logbook/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 <!---LeetCode Topics End-->
