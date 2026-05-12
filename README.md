@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mohammednaveen/LC---logbook/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/mohammednaveen/LC---logbook/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mohammednaveen/LC---logbook/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1914-cyclically-rotating-a-grid](https://github.com/mohammednaveen/LC---logbook/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/mohammednaveen/LC---logbook/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohammednaveen/LC---logbook/tree/master/2553-separate-the-digits-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mohammednaveen/LC---logbook/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohammednaveen/LC---logbook/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mohammednaveen/LC---logbook/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2974-minimum-number-game](https://github.com/mohammednaveen/LC---logbook/tree/master/2974-minimum-number-game) |
 ## Linked List
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/mohammednaveen/LC---logbook/tree/master/1486-xor-operation-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mohammednaveen/LC---logbook/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
