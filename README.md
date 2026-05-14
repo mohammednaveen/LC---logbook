@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/mohammednaveen/LC---logbook/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohammednaveen/LC---logbook/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mohammednaveen/LC---logbook/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/mohammednaveen/LC---logbook/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/mohammednaveen/LC---logbook/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/mohammednaveen/LC---logbook/tree/master/2974-minimum-number-game) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mohammednaveen/LC---logbook/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/mohammednaveen/LC---logbook/tree/master/0771-jewels-and-stones) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mohammednaveen/LC---logbook/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2325-decode-the-message](https://github.com/mohammednaveen/LC---logbook/tree/master/2325-decode-the-message) |
+| [2784-check-if-array-is-good](https://github.com/mohammednaveen/LC---logbook/tree/master/2784-check-if-array-is-good) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mohammednaveen/LC---logbook/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohammednaveen/LC---logbook/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mohammednaveen/LC---logbook/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2784-check-if-array-is-good](https://github.com/mohammednaveen/LC---logbook/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/mohammednaveen/LC---logbook/tree/master/2974-minimum-number-game) |
 ## Linked List
 |  |
