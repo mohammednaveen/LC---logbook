@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/mohammednaveen/LC---logbook/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/mohammednaveen/LC---logbook/tree/master/2974-minimum-number-game) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mohammednaveen/LC---logbook/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mohammednaveen/LC---logbook/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammednaveen/LC---logbook/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mohammednaveen/LC---logbook/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mohammednaveen/LC---logbook/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammednaveen/LC---logbook/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/mohammednaveen/LC---logbook/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/mohammednaveen/LC---logbook/tree/master/2974-minimum-number-game) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mohammednaveen/LC---logbook/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mohammednaveen/LC---logbook/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammednaveen/LC---logbook/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mohammednaveen/LC---logbook/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
 |  |
 | ------- |
