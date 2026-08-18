@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mohammednaveen/LC---logbook/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/mohammednaveen/LC---logbook/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
+| [0997-find-the-town-judge](https://github.com/mohammednaveen/LC---logbook/tree/master/0997-find-the-town-judge) |
 | [1345-jump-game-iv](https://github.com/mohammednaveen/LC---logbook/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mohammednaveen/LC---logbook/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mohammednaveen/LC---logbook/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohammednaveen/LC---logbook/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mohammednaveen/LC---logbook/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/mohammednaveen/LC---logbook/tree/master/0771-jewels-and-stones) |
+| [0997-find-the-town-judge](https://github.com/mohammednaveen/LC---logbook/tree/master/0997-find-the-town-judge) |
 | [1345-jump-game-iv](https://github.com/mohammednaveen/LC---logbook/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mohammednaveen/LC---logbook/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2325-decode-the-message](https://github.com/mohammednaveen/LC---logbook/tree/master/2325-decode-the-message) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mohammednaveen/LC---logbook/tree/master/1674-minimum-moves-to-make-array-complementary) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/mohammednaveen/LC---logbook/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
