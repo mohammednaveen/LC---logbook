@@ -1,17 +1,9 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        hash_map = {}
-        for i in range(len(nums)):
-            complement = target - nums[i]
-
-            if complement in hash_map:
-                return [hash_map[complement],i]
-            
-            hash_map[nums[i]] = i
-        return []
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        seen = dict()
+        for i,num in enumerate(nums):
+            compliment = target - num
+            if compliment not in seen:
+                seen[num] = i
+            else:
+                return [i,seen[compliment]]
