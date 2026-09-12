@@ -165,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mohammednaveen/LC---logbook/tree/master/0997-find-the-town-judge) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohammednaveen/LC---logbook/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
