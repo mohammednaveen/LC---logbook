@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohammednaveen/LC---logbook/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/mohammednaveen/LC---logbook/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/mohammednaveen/LC---logbook/tree/master/0070-climbing-stairs) |
 | [1486-xor-operation-in-an-array](https://github.com/mohammednaveen/LC---logbook/tree/master/1486-xor-operation-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/mohammednaveen/LC---logbook/tree/master/2413-smallest-even-multiple) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mohammednaveen/LC---logbook/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mohammednaveen/LC---logbook/tree/master/0070-climbing-stairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mohammednaveen/LC---logbook/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Bit Manipulation
 |  |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohammednaveen/LC---logbook/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mohammednaveen/LC---logbook/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
